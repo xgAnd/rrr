@@ -1,0 +1,28 @@
+{
+  "plugins": [
+    ["import", {"libraryName": "@ant-design/react-native"}],
+
+  ]
+
+
+//,
+//  "babel":{
+//    "plugins":[
+//      [
+//        "@babel/plugin-proposal-decorators",
+//        {
+//          "legacy":true
+//        }
+//      ],
+//      [
+//        "@babel/plugin-proposal-class-properties",
+//        {
+//          "loose":true
+//        }
+//      ]
+//    ],
+//    "presets":[
+//      "react-app"
+//    ]
+//  }
+}
